@@ -17,7 +17,7 @@ I made this CRUD in REACT and NODE with database in mysql
   1. Check you DB in `server/index.js`
   2. `$ cd server`
   3. `$ npm install`
-  4. `$ npm rum dev`
+  4. `$ npm run dev`
 
 ## Functions👍
 
